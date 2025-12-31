@@ -1,10 +1,11 @@
-# Pull Requests
+# Pull Requests and Merge Conflicts
 
 ## Creating a Repository from Visual Studio
 1. Create a console app called `OpinionsFrom<YourFirstName>`
-1. Git > Create Git Repository > Create and Push
+1. Go to the Git menu > Create Git Repository > Create and Push
 1. Print some opinions to the console
-	* Sports predictions, favorite food/drink, cutest animal, etc.
+    * These should be things that a couple of other people in the class will want to change.
+	* They can be sports predictions, favorite food/drink, cutest animal, etc.
 1. Save and run (F5) to test
 1. Go to Git Changes to review your modified files
 1. Stage the file you changed
